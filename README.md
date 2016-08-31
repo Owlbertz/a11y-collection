@@ -34,6 +34,8 @@ Articles dealing with Accessibility and Usability.
 
 - [Accessibility: Proven, easy integration into design and development workflows](http://www.slideshare.net/iamjolly/accessibility-proven-easy-integration-into-design-and-development-workflows)
 - [Deque: The Essential Guide to Digital Accessibility](http://www.deque.com/blog/infographic-essential-guide-digital-accessibility/)
+- [Google: Ressources for developers and publisher](https://www.google.com/accessibility/for-developers.html)
+- [Mozilla: Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 
 ## Contributing
 Pull Requests that add more ressources are very welcome.
