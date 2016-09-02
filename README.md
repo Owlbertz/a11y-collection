@@ -14,9 +14,13 @@ Guidelines and standards that define Accessibility.
 Tools, guidelines and success criteria to evaluate the accessibility of websites.
 
 - [W3C WCAG 2.0 Requirements](https://www.w3.org/WAI/WCAG20/quickref/)
+- [W3C Web Accessiblity Evaluation Tool List](https://www.w3.org/WAI/ER/tools/)
 - [WebAIM: Color Contrast Checker](http://webaim.org/resources/contrastchecker/)
 - [WebAIM Wave: Website Accessibility Checker](http://wave.webaim.org/)
 - [Karl Groves: The 6 Simplest Web Accessibility Tests Anyone Can Do](http://www.karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do/)
+- [Paciello Group: Accessibility Viewer](https://www.paciellogroup.com/resources/aviewer/)
+- [Google: Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
+- [aXe: Automated Accessibility Tests](https://github.com/dequelabs/axe-core)
 
 ### Examples
 Examples and best practices to create accessible components and websites.
