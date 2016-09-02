@@ -22,6 +22,11 @@ Tools, guidelines and success criteria to evaluate the accessibility of websites
 - [Google: Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 - [aXe: Automated Accessibility Tests](https://github.com/dequelabs/axe-core)
 
+#### Screen Reader
+
+- [ChromeVox](http://www.chromevox.com/)
+- [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS)
+
 ### Examples
 Examples and best practices to create accessible components and websites.
 
