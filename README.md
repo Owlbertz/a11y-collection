@@ -2,13 +2,14 @@
 Collection of documentations, descriptions and best practices for a better website Accessibility and Universal Usability.
 
 For the time being this is a flat list of links. In the future, I plan on creating an easy to browse structure that helps finding relevant information and examples easier, sorted by the most popular components and topics.
-
 ## Links
 
 ### Guidelines
 Guidelines and standards that define Accessibility.
 
 - [W3C WAI-ARIA](https://www.w3.org/TR/wai-aria/)
+- [Section 508](https://www.section508.gov/) (US)
+- [BITV](http://www.bitvtest.eu/bitv_test/intro/overview.html) (Germany)
 
 ### Tests
 Tools, guidelines and success criteria to evaluate the accessibility of websites.
