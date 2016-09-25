@@ -21,11 +21,13 @@ Tools, guidelines and success criteria to evaluate the accessibility of websites
 - [Paciello Group: Accessibility Viewer](https://www.paciellogroup.com/resources/aviewer/)
 - [Google: Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 - [aXe: Automated Accessibility Tests](https://github.com/dequelabs/axe-core)
+- [A11y Project Checklist](http://a11yproject.com/checklist.html)
 
 #### Screen Reader
 
-- [ChromeVox](http://www.chromevox.com/)
-- [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS)
+- [ChromeVox](http://www.chromevox.com/) (Chrome Plugin)
+- [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS) (Windows)
+- [NVDA](http://www.nvaccess.org/download/) (Windows - Free)
 
 ### Examples
 Examples and best practices to create accessible components and websites.
