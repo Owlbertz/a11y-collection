@@ -50,4 +50,4 @@ Articles dealing with Accessibility and Usability.
 - [Mozilla: Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 
 ## Contributing
-Pull Requests that add more ressources are very welcome.
+Pull Requests that add more resources are very welcome.
