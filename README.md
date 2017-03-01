@@ -8,7 +8,6 @@ For the time being this is a flat list of links. In the future, I plan on creati
 Guidelines and standards that define Accessibility.
 
 - [W3C WAI-ARIA](https://www.w3.org/TR/wai-aria/)
-- [W3C WAI-ARIA Practices](https://www.w3.org/TR/wai-aria-practices-1.1/)
 - [Section 508](https://www.section508.gov/) (US)
 - [BITV](http://www.bitvtest.eu/bitv_test/intro/overview.html) (Germany)
 
@@ -37,7 +36,7 @@ Examples and best practices to create accessible components and websites.
 - [Open Ajax](http://www.oaa-accessibility.org/)
 - [Niclas Hoffmann](http://a11y.nicolas-hoffmann.net/)
 - [Deque University](https://dequeuniversity.com/library/)
-- [W3C WAI-ARIA Practices](https://www.w3.org/TR/wai-aria-practices)
+- [W3C WAI-ARIA Practices](https://www.w3.org/TR/wai-aria-practices-1.1/)
 - [eBay Mind Patterns](https://ebay.gitbooks.io/mindpatterns/content/) ([Code examples](http://ianmcburnie.github.io/mindpatterns/))
 - [Heydonworks ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 - [A11y Project Patterns](http://a11yproject.com/patterns/)
