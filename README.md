@@ -8,6 +8,7 @@ For the time being this is a flat list of links. In the future, I plan on creati
 Guidelines and standards that define Accessibility.
 
 - [W3C WAI-ARIA](https://www.w3.org/TR/wai-aria/)
+- [W3C WAI-ARIA Practices](https://www.w3.org/TR/wai-aria-practices-1.1/)
 - [Section 508](https://www.section508.gov/) (US)
 - [BITV](http://www.bitvtest.eu/bitv_test/intro/overview.html) (Germany)
 
@@ -40,6 +41,7 @@ Examples and best practices to create accessible components and websites.
 - [eBay Mind Patterns](https://ebay.gitbooks.io/mindpatterns/content/) ([Code examples](http://ianmcburnie.github.io/mindpatterns/))
 - [Heydonworks ARIA Examples](http://heydonworks.com/practical_aria_examples/)
 - [A11y Project Patterns](http://a11yproject.com/patterns/)
+- [Frend](https://frend.co/)
 
 ## Further Reading
 Articles dealing with Accessibility and Usability.
@@ -48,6 +50,7 @@ Articles dealing with Accessibility and Usability.
 - [Deque: The Essential Guide to Digital Accessibility](http://www.deque.com/blog/infographic-essential-guide-digital-accessibility/)
 - [Google: Ressources for developers and publisher](https://www.google.com/accessibility/for-developers.html)
 - [Mozilla: Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
+- [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9#.vymga7mf4)
 
 ## Contributing
 Pull Requests that add more resources are very welcome.
