@@ -4,7 +4,7 @@ This is an index for the components:
 
 ## Containers
 - [Tabs](tabs.md)
-- Accordions
+- [Accordion](accordion.md)
 - Modals / Popups
 - Tooltip
 
