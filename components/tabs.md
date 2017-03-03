@@ -23,6 +23,10 @@
 - Use `tab` for the tab itself.
 - Use `tabpanel` for the tab panel, i.e. the content belonging to a tab.
 
+### ARIA states
+- Set `aria-controls` on a tab to the ID of the panel that it belongs to.
+- Set `aria-labelledby` on an tab panel to the ID of the tab that belongs to it.
+
 ## Keyboard
 | Key | Function |
 |------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
