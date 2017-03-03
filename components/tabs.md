@@ -26,6 +26,7 @@
 ### ARIA states
 - Set `aria-controls` on a tab to the ID of the panel that it belongs to.
 - Set `aria-labelledby` on an tab panel to the ID of the tab that belongs to it.
+- Set `aria-orientation` on an tablist-element to `vertical` for vertical tabs (`horizontal is the default`).
 
 ## Keyboard
 | Key | Function |
