@@ -50,6 +50,7 @@ Articles dealing with Accessibility and Usability.
 - [Google: Ressources for developers and publisher](https://www.google.com/accessibility/for-developers.html)
 - [Mozilla: Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility)
 - [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9#.vymga7mf4)
+- [Incluse Design Patterns (Book)](https://www.smashingmagazine.com/inclusive-design-patterns/)
 
 ## Contributing
 Pull Requests that add more resources are very welcome.
