@@ -1,6 +1,6 @@
 # Components
 
-This is an index for the components:
+This is an index for the components. Each sub-page describes its component by giving pratical examples and showing guidlines and best practices.
 
 ## Containers
 - [Tabs](tabs.md)
