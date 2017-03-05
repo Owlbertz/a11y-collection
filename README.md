@@ -39,7 +39,7 @@ Examples and best practices to create accessible components and websites.
 - [W3C WAI-ARIA Practices](https://www.w3.org/TR/wai-aria-practices-1.1/)
 - [eBay Mind Patterns](https://ebay.gitbooks.io/mindpatterns/content/) ([Code examples](http://ianmcburnie.github.io/mindpatterns/))
 - [Heydonworks ARIA Examples](http://heydonworks.com/practical_aria_examples/)
-- [A11y Project Patterns](http://a11yproject.com/patterns/)
+- [A11y Project Patterns](http://a11yproject.com/patterns.html)
 - [Frend](https://frend.co/)
 
 ## Further Reading
