@@ -6,7 +6,7 @@ This is an index for the components. Each sub-page describes its component by gi
 - [Tabs](tabs.md)
 - [Accordion](accordion.md)
 - [Modals / Popups](modal.md)
-- Tooltip
+- [Tooltip](tooltip.md)
 
 ## Navigation
 - Dropdown navigation
