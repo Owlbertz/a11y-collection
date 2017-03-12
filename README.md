@@ -2,6 +2,10 @@
 Collection of documentations, descriptions and best practices for a better website Accessibility and Universal Usability.
 
 For the time being this is a flat list of links. In the future, I plan on creating an easy to browse structure that helps finding relevant information and examples easier, sorted by the most popular components and topics.
+
+## Components
+The [components folder](components/) contains an overview of commonly used components and design patterns. Each component is described with an example HTML snippet, important things to consider when implementing JavaScript and links for further information.
+
 ## Links
 
 ### Guidelines
