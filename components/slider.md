@@ -11,14 +11,15 @@
 Make sure to set `tabindex` of the element with `role="slider"` to `0` in order to make it focusable.
 
 ### Roles
-- Use `slider` for the element that represents the slider thumb.
+- Use `slider` for the element that represents the slider thumb (i.e. the element the mouse would move).
 
 ### ARIA states
 - Set `aria-valuemin` to the smallest selectable value on the slider thumb.
 - Set `aria-valuenow` to the current value on the slider thumb.
 - Set `aria-valuemax` to the highest selectable value on the slider thumb.
-- Set `aria-labelledby` on an thumb to the ID of the label that describes the slider.
-- Set `aria-label` on an thumb if no other label is provided.
+- Set `aria-labelledby` on the slider thumb to the ID of the label that describes the slider.
+- Set `aria-label` on the slider thumb if no other label is provided.
+- Set `aria-orientation` on the slider thumb to `vertical` for vertical sliders (`horizontal` being the default).
 
 ## Keyboard
 
