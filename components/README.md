@@ -14,7 +14,7 @@ This is an index for the components. Each sub-page describes its component by gi
 - Breadcrumb
 
 ## Misc
-- Carousel
+- [Carousel](carousel.md)
 
 ## Form controls
 - [Slider](slider.md)
