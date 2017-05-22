@@ -18,9 +18,7 @@
 ```
 
 ### Roles
-- Use `tablist` for the element that wraps the accordion.
-- Use `tab` for the element that wraps the accordion title.
-- Use `tabpanel` for the element that wraps the accordion panel content.
+ - Use `heading` for the element that wraps the accordion toggles.
 
 ### ARIA states
 - Set `aria-expanded` to `true` on the accordion toggle of the active panel.
