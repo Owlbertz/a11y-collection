@@ -28,11 +28,16 @@ Tools, guidelines and success criteria to evaluate the accessibility of websites
 - [aXe: Automated Accessibility Tests](https://github.com/dequelabs/axe-core)
 - [A11y Project Checklist](http://a11yproject.com/checklist.html)
 
-#### Screen Reader
+### Screen Reader
 
 - [ChromeVox](http://www.chromevox.com/) (Chrome Plugin)
 - [JAWS](http://www.freedomscientific.com/Products/Blindness/JAWS) (Windows)
 - [NVDA](http://www.nvaccess.org/download/) (Windows - Free)
+
+
+### Colors
+
+- [Creating accessible color palettes](https://medium.com/confrere/automatically-creating-an-accessible-color-palette-from-any-color-sure-e735c3f2f45e)
 
 ### Examples
 Examples and best practices to create accessible components and websites.
