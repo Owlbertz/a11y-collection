@@ -61,6 +61,7 @@ Articles dealing with Accessibility and Usability.
 - [Writing JavaScript with accessibility in mind](https://medium.com/@matuzo/writing-javascript-with-accessibility-in-mind-a1f6a5f467b9#.vymga7mf4)
 - [Incluse Design Patterns (Book)](https://www.smashingmagazine.com/inclusive-design-patterns/)
 - [ESPN Web Accessibility Guide](http://www.espn.com/core/toolkit/page/webAccessibilityGuide)
+- [A developers guide to accessibility](https://www.24a11y.com/2017/a-developers-guide-to-better-accessibility/)
 
 ## Contributing
 Pull Requests that add more resources are very welcome.
