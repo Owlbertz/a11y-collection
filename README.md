@@ -27,6 +27,8 @@ Tools, guidelines and success criteria to evaluate the accessibility of websites
 - [Google: Chrome Accessibility Developer Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 - [aXe: Automated Accessibility Tests](https://github.com/dequelabs/axe-core)
 - [A11y Project Checklist](http://a11yproject.com/checklist.html)
+- [508 Checker](http://www.508checker.com/)
+- [AS Lint](https://www.aslint.org/)
 
 ### Screen Reader
 
