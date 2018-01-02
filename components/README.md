@@ -18,4 +18,4 @@ This is an index for the components. Each sub-page describes its component by gi
 
 ## Form controls
 - [Slider](slider.md)
-- Switch
+- [Switch](switch.md)
