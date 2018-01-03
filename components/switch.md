@@ -33,3 +33,4 @@
 - [WAI Authoring Practice](https://www.w3.org/TR/wai-aria-practices/examples/button/button.html)
 - [Inclusive Components](https://inclusive-components.design/toggle-button/)
 - [ARIA Switch Button by scottaohara](https://github.com/scottaohara/aria-switch-button)
+- [MDN Button Accessibility](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/ARIA_Techniques/Using_the_button_role)
