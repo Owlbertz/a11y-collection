@@ -29,6 +29,8 @@ Tools, guidelines and success criteria to evaluate the accessibility of websites
 - [A11y Project Checklist](http://a11yproject.com/checklist.html)
 - [508 Checker](http://www.508checker.com/)
 - [AS Lint](https://www.aslint.org/)
+- [pa11y](https://github.com/pa11y/pa11y)
+- [ally.js](https://github.com/medialize/ally.js)
 
 ### Screen Reader
 
