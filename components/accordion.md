@@ -36,7 +36,7 @@
 *Nothing special*
 
 ## Examples
-- [WAI Authoring Practice](https://www.w3.org/TR/wai-aria-practices-1.1/examples/accordion/accordion1.html)
+- [WAI Authoring Practice](https://www.w3.org/TR/wai-aria-practices-1.1/examples/accordion/accordion.html)
 - [Frend](https://frend.co/components/accordion/)
 - [eBay MIND Patterns](http://ianmcburnie.github.io/mindpatterns/disclosure/accordion/index.html)
 - [OAA Accessibility](http://www.oaa-accessibility.org/example/35/)
