@@ -33,7 +33,8 @@
 - Use `group` for elements that contain child elements.
 - Use `treeitem` for elements that serve as leaves.
 
-### ARIA statesTODO
+### ARIA states
+TODO
 
 ## Keyboard
 TODO
