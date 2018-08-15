@@ -31,6 +31,7 @@ Tools, guidelines and success criteria to evaluate the accessibility of websites
 - [AS Lint](https://www.aslint.org/)
 - [pa11y](https://github.com/pa11y/pa11y)
 - [ally.js](https://github.com/medialize/ally.js)
+- [Siteimprove Accessibility Checke](https://chrome.google.com/webstore/detail/siteimprove-accessibility/efcfolpjihicnikpmhnmphjhhpiclljc) (Chrome plugin)
 
 ### Screen Reader
 
